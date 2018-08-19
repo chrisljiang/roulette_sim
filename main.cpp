@@ -17,9 +17,9 @@ int main() {
     /////////////////////////////        Values to change for different simulations        /////////////////////////////
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    rounds = 10000;
+    rounds = 100;
     sets = 100;
-    base = 10;
+    base = 15;
     win = 18;
     total = 38;
     payOut = 2;
@@ -91,5 +91,5 @@ int main() {
 
     std::cout << "Max set : " << maxSet << std::endl
               << "Min set : " << minSet << std::endl
-             << "Wins : " << totalWin << "Loss : " << totalLoss << std::endl;
+             << "Wins : " << totalWin << " Losses : " << totalLoss << std::endl;
 }
