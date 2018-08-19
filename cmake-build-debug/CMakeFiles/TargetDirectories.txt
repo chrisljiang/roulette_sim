@@ -1,0 +1,3 @@
+D:/Google Drive/Coding/ClionProjects/Gambling/Roulette/cmake-build-debug/CMakeFiles/Roulette.dir
+D:/Google Drive/Coding/ClionProjects/Gambling/Roulette/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Google Drive/Coding/ClionProjects/Gambling/Roulette/cmake-build-debug/CMakeFiles/rebuild_cache.dir

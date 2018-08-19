@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Google Drive/Coding/ClionProjects/Gambling/Roulette/main.cpp
+iostream
+-
+random
+-
+chrono
+-
+Windows.h
+-
+
